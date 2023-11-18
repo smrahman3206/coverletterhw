@@ -1,20 +1,16 @@
 ## SM Rahman 
 
-Contact: 
-smtr3206@gmail.com
-347-251-9602
-
-Address: 
+#### Contact: 
+#### smtr3206@gmail.com
+#### 347-251-9602
+#### Address: 
 175-27 Wexford Terrace
 Queens, New York, 11432
-
-Date:
+#### Date:
 November 18, 2023
-
-Employer: 
+#### Employer: 
 TrionxAI
-
-Company Address: 
+#### Company Address: 
 175-23 Lauren Ct
 Queens, New York 11432
 
